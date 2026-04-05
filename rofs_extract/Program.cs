@@ -6,7 +6,7 @@ Console.WriteLine("----------------------------------------------");
 
 if (args.Length < 2)
 {
-    Console.WriteLine("Usage: rofs_dumper <infile> <outfolder>");
+    Console.WriteLine("Usage: rofs_extract <infile> <outfolder>");
     return 1;
 }
 
